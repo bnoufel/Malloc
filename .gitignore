@@ -1,0 +1,6 @@
+objects/
+cmake-build-debug/
+.idea/
+*.so
+.DS_STORE
+a.out
